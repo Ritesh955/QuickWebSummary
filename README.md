@@ -19,6 +19,7 @@ This project fetches a webpage, extracts its content, and generates a short summ
 2. Create a virtual environment (optional but recommended):
 
     `python -m venv venv`
+
     `source venv/bin/activate` 
 
 3. Install dependencies:
