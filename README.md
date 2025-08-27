@@ -27,7 +27,7 @@ This project fetches a webpage, extracts its content, and generates a short summ
     `pip install -r requirements.txt`
 
 4. Ensure Ollama 3.2 is installed and running locally at http://localhost:11434.
-   Follow Ollama's installation instructions: Ollama Documentation
+   Follow Ollama's installation instructions: [Ollama Documentation](https://ollama.com/)
 
 5. Usage
    Run the script with the URL you want to analyze:
