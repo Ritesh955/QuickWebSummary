@@ -12,7 +12,7 @@ This project fetches a webpage, extracts its content, and generates a short summ
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/QuickWebSummary.git
+    git clone git@github.com:Ritesh955/QuickWebSummary.git
     cd QuickWebSummary
     ```
 
