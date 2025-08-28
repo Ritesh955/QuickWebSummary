@@ -44,3 +44,19 @@ This project fetches a webpage, extracts its content, and generates a short summ
     ```python main.py "https://scotiabank.com"```
 
      ![Screenshot 2025-08-27 at 4.46.37 PM.png](Screenshot%202025-08-27%20at%204.46.37%E2%80%AFPM.png)
+
+## Web App Usage
+
+You can also use the interactive web app powered by Streamlit.
+
+1. Start the app:
+
+    ```bash
+    streamlit run app.py
+    ```
+
+2. Enter a website URL in the UI and click "Summarize" to get an instant summary and export it as a Markdown file.
+
+---
+
+The command-line usage and examples remain unchanged.

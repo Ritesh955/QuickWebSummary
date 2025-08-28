@@ -36,6 +36,4 @@ def display_summary(url):
     """
     website = Website(url)
     summary = summarize(website)
-    print(f"Title: {website.title}\n")
-    print("Summary:\n")
-    print(summary)
+    return summary
